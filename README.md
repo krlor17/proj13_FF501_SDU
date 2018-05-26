@@ -1,12 +1,7 @@
-# proj13_FF501_SDU
+
 This is a duplicate of README.txt
-   			  _____ _____  _    _ 
-			 / ____|  __ \| |  | |
-			| (___ | |  | | |  | |
-			 \___ \| |  | | |  | |	
-			 ____) | |__| | |__| |
-			|_____/|_____/ \____/  
-          
+
+
 		     University of Southern Denmark
 	_____________________________________________________
 
@@ -81,3 +76,6 @@ Whatever you feel like.
 
 -- Tips for running script via. ssh --
 
+Cloning the git repository is an easy way to download the script to the host server.
+
+$	git clone https://github.com/krlor17/proj13_FF501_SDU.git 

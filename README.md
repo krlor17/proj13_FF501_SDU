@@ -1,6 +1,6 @@
 # proj13_FF501_SDU
 This is a duplicate of README.txt
-        _____ _____  _    _ 
+   			  _____ _____  _    _ 
 			 / ____|  __ \| |  | |
 			| (___ | |  | | |  | |
 			 \___ \| |  | | |  | |	
@@ -70,7 +70,7 @@ The $name gives the folder and file name under the generated results. I.e.
 Makes the script save the results for the pion under results/pion/
 i.e. the final results in .tex format will be saved as 
 
-results/pion/pion_final_table.tex
+" results/pion/pion_final_table.tex "
 
 
 
